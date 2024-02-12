@@ -1,6 +1,6 @@
 Hi there 👋, my name is Lucy Lapolo
 - 👀 I’m interested in solving the world's problems through technology
-- 🌱 I’m a certified Backend Developer in Softeare Engineering by  ALX Africa
+- 🌱 I’m a certified Backend Developer in Software Engineering by  ALX Africa
 - 💞️ I’m looking to collaborate on coding and programing
 - 📫 How to reach me ...www.linkedin.com/in/lapolo-lucy-ironlady
 - https://twitter.com/lapololucy
